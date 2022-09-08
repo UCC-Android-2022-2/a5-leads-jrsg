@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Leads</string>
+    <string name="datos_personales">Datos personales</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="area">Área de procedencia</string>
+    <string name="licenciatura">Licenciatura de interés</string>
+    <string name="administracion">Administración</string>
+    <string name="derecho">Derecho</string>
+    <string name="medicina">Médico Cirujano</string>
+    <string name="sistemas">Ingeniería en Sistemas Computacionales</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="error_nombre">Captura tu nombre</string>
+    <string name="error_telefono">Captura tu teléfono</string>
+    <string name="error_email">Captura tu email</string>
+    <string name="error_area">Selecciona un área de procedencia</string>
+    <string name="error_licenciatura">Selecciona al menos una licenciatura</string>
+    <string name="ok">Aceptar</string>
+    <string name="datos_faltantes">Datos faltantes</string>
+
+    <string-array name="areas">
+        <item> </item>
+        <item>Exactas</item>
+        <item>Biológica</item>
+        <item>Económico-administrativa</item>
+        <item>Humanidades</item>
+    </string-array>
+
 </resources>
